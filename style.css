@@ -1,0 +1,36 @@
+.checked{
+    color:orange;
+}
+.textbox{
+    width:30%;
+    padding:0.5em;
+    margin-left:3px;
+}
+#email{
+    width:63%;
+    padding:0.5em;
+    margin:3px;
+}
+.required {
+    color: red;
+  }
+.control, fieldset {
+    margin: 1px 0;
+  }
+
+td {
+    height: 20px;
+    width: 160px;
+    text-align: center;
+    vertical-align: middle;
+  }
+  table{
+    border-collapse: collapse;
+  }
+  #paragraph{
+      display: flex;
+      grid-auto-flow:column;
+      font-size: 12px;
+      gap:32.5em;
+  }
+  
